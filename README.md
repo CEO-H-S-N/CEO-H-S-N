@@ -30,7 +30,7 @@ PostgreSQL · MongoDB · SQLite
 
 ### 📬 Contact Me
 
-- Email: [hassantariq@gmail.com](mailto:hassanedu124@gmail.com)  
+- Email: [HSN@gmail.com](mailto:hassanedu124@gmail.com)  
 - LinkedIn: [linkedin.com/in/hassantariq](https://www.linkedin.com/in/hassan-tariq-3367a6220/)
 
 ---
