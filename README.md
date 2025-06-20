@@ -15,7 +15,7 @@ Currently exploring:
 ### 🧠 Skills
 
 **Languages**  
-Python · JavaScript · SQL
+Python · JavaScript · SQL · C++
 
 **Frameworks**  
 FastAPI · Flask · React
@@ -24,23 +24,14 @@ FastAPI · Flask · React
 Docker · AWS Lambda · Git · GitHub Actions
 
 **Databases**  
-PostgreSQL · MongoDB
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassantariq&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassantariq&theme=default&hide_border=true" width="48%" />
-</p>
+PostgreSQL · MongoDB · SQLite
 
 ---
 
 ### 📬 Contact Me
 
-- Email: [hassantariq@gmail.com](mailto:hassantariq@gmail.com)  
-- LinkedIn: [linkedin.com/in/hassantariq](https://linkedin.com/in/hassantariq)
+- Email: [hassantariq@gmail.com](mailto:hassanedu124@gmail.com)  
+- LinkedIn: [linkedin.com/in/hassantariq](https://www.linkedin.com/in/hassan-tariq-3367a6220/)
 
 ---
 
