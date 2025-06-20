@@ -17,8 +17,11 @@ Currently exploring:
 **Languages**  
 Python · JavaScript · SQL · C++
 
-**Frameworks**  
-FastAPI · Flask · React
+**Frontend**  
+React · Next.js · Tailwind CSS · HTML5 · CSS3
+
+**Backend**  
+FastAPI · Flask · Express.js · Django · Node.js
 
 **Tools & Cloud**  
 Docker · AWS Lambda · Git · GitHub Actions
