@@ -15,7 +15,7 @@ Currently exploring:
 ### 🧠 Skills
 
 **Languages**  
-Python · JavaScript · SQL · C++
+Python · JavaScript · SQL · C++ · C#
 
 **Frontend**  
 React · Next.js · Tailwind CSS · HTML5 · CSS3
