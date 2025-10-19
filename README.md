@@ -1,4 +1,4 @@
-# Hi, I'm Hassan Tariq 👋
+# Hi, I'm Hassan Tariq 
 
 Software Engineering graduate passionate about:
 - ☁️ Cloud Computing
