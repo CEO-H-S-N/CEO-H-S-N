@@ -1,9 +1,9 @@
 # Hi, I'm Hassan Tariq 
 
 Software Engineering graduate passionate about:
-- ☁️ Cloud Computing
-- 🤖 AI/ML Systems
-- 🧩 Data Structures & Algorithms
+-  Cloud Computing
+-  AI/ML Systems
+   Data Structures & Algorithms
 
 Currently exploring:
 - Serverless ML APIs  
@@ -12,7 +12,7 @@ Currently exploring:
 
 ---
 
-### 🧠 Skills
+###  Skills
 
 **Languages**  
 Python · JavaScript · SQL · C++ · C#
@@ -31,7 +31,7 @@ PostgreSQL · MongoDB · SQLite
 
 ---
 
-### 📬 Contact Me
+###  Contact Me
 
 - Email: [HSN@gmail.com](mailto:hassanedu124@gmail.com)  
 - LinkedIn: [linkedin.com/in/hassantariq](https://www.linkedin.com/in/hassan-tariq-3367a6220/)
