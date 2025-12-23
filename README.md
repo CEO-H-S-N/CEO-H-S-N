@@ -6,8 +6,8 @@ Software Engineering graduate passionate about:
    Data Structures & Algorithms
 
 Currently exploring:
-- Serverless ML APIs  
-- FastAPI + Hugging Face  
+- Network Architechture and Design
+- Deployment and Analysis
 - Vector Search & RAG Systems
 
 ---
