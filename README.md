@@ -7,11 +7,11 @@
 I enjoy solving complex system problems, optimizing pipelines end-to-end, and learning the evolving landscape of data + AI infrastructure
 
 - 📚 I’m currently learning ...
-  - *Data Modeling*
-  - *Bash*
+  - *CI/CD*
+  - *Network Architecture*
 
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and also photography 📷 
-- 📫 Reach out to me at: <a href="msalaarma@gmail.com">msalaarma@gmail.com</a>
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 playing music, and trying new food  
+- 📫 Reach out to me at: <a href="hassanedu124@gmail.com">hassanedu124@gmail.com</a>
 <br>
 </div>    
 
@@ -24,11 +24,6 @@ I enjoy solving complex system problems, optimizing pipelines end-to-end, and le
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-###### Data Engineering & Big Data:
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23003549.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ###### Cloud & Deployment:
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,12 +32,6 @@ I enjoy solving complex system problems, optimizing pipelines end-to-end, and le
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white)
-
-###### Data Visualization & BI:
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-
-
 
 
 
