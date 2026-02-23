@@ -13,7 +13,7 @@ I enjoy solving complex system problems, optimizing pipelines end-to-end, and le
 Currently exploring:
 - *Network Architecture and Design*
 - *Deployment and Analysis*
-- *Vector Search & RAG Systems*
+- *Agentic AI Development*
 
 
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 playing music, and trying new food  
@@ -28,10 +28,10 @@ Currently exploring:
 
 
 **Languages**  
-Python · JavaScript · SQL · C++ · C#
+Python · JavaScript · C++ · C#
 
 **Frontend**  
-React · Next.js · Tailwind CSS · HTML5 · CSS3
+React · Next.js · Tailwind CSS · HTML5 · Vite
 
 **Backend**  
 FastAPI · Flask · Express.js · Django · Node.js
